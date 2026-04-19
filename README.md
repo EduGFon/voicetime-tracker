@@ -1,3 +1,7 @@
-# Call duration monitoring bot
+# Voice time tracker
 
-this bot counts how many time did you stay in a Discord Voice Channel
+> Track, rank, and analyze voice channel activity in your Discord server. 
+
+This bot logs user sessions in voice channels and turns idle time into competitive leaderboards.
+
+This project is not mantained anymore
